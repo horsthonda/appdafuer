@@ -1,2 +1,0 @@
-# appdafuer
-Powered by PRSS
